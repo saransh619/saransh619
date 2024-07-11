@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saransh Pachhai</h1>
 
 # 💫 About Me:
-B.Sc. CSIT graduate | Full-stack Developer 🚀<br><br>Skilled in React, Node, TypeScript, GraphQL, REST APIs, PostgreSQL, and NoSQL (MongoDB). From architecting a Serverless Sequelize project to contributing to a dynamic Job Portal System and GUMP (Genese Unified Mailing Platform), I'm passionate about turning ideas into innovative solutions. Let's connect and explore the possibilities in tech! <br>#FullStackDeveloper #React #Node #GraphQL #InnovationDriven
+B.Sc. CSIT graduate | Full-stack Developer 🚀<br><br>Skilled in React, Node, TypeScript, GraphQL, REST APIs, PostgreSQL, and NoSQL (MongoDB). From architecting a Serverless Sequelize project to contributing to a dynamic Job Portal System and GUMP (Genese Unified Mailing Platform), I'm passionate about turning ideas into innovative solutions. Let's connect and explore the possibilities in tech! <br>#FullStackDeveloper #React #Node #GraphQL #InnovationDriven #Technology
 
 
 ## 🌐 Socials:
