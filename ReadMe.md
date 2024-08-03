@@ -4,7 +4,7 @@
 B.Sc. CSIT graduate | Full-stack Developer 🚀
 
 Skilled in Node.js, React, TypeScript, GraphQL, REST APIs, PostgreSQL, and MongoDB. Passionate about turning ideas into innovative solutions. Experienced in architecting serverless projects, job portals, and unified mailing platforms. Proficient in real-time communication with Socket.io, notifications, push notifications, and image/video optimization using Sharp and FFmpeg. Let's connect and explore the possibilities in tech!
-<br>#FullStackDeveloper #React #Node #GraphQL #InnovationDriven #Technology #Developing #Coding #Research
+<br>#FullStackDeveloper #React #Node #GraphQL #InnovationDriven #Technology #Developing #Coding #Research #Innovation
 
 
 ## 🌐 Socials:
