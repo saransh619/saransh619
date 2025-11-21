@@ -3,7 +3,7 @@
 # 💫 About Me:
 B.Sc. CSIT graduate | Full-stack Developer 🚀
 
-I am skilled in Node.js, NestJS, React, TypeScript, GraphQL, REST APIs, PostgreSQL, MySQL, and MongoDB. I am passionate about turning ideas into innovative solutions. I am experienced in architecting serverless projects, job portals, unified mailing platforms, and admin panels with robust analytics and reporting tools.
+I am skilled in Node.js, NestJS, React, Next.js, TypeScript, GraphQL, REST APIs, PostgreSQL, MySQL, and MongoDB. I am passionate about turning ideas into innovative solutions. I am experienced in architecting serverless projects, job portals, unified mailing platforms, and admin panels with robust analytics and reporting tools.
 
 Proficient in real-time communication using Socket.io, scheduling and automating tasks with cron jobs, managing notifications and push notifications, and optimizing images/videos with Sharp and FFmpeg. I thrive in creating scalable, high-performance solutions that leverage advanced technologies. Let's connect and explore the possibilities in tech!
 
